@@ -1,4 +1,4 @@
-# TinyNLP Explorer – Tokenization & Word-Level One-Hot Visualization
+# TinyNLP Explorer – Tokenization & Word-Level One-Hot encoding Visualization
 
 ## Overview
 
